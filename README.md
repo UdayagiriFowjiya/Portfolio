@@ -14,7 +14,8 @@ Projects – Highlighted works with descriptions and links
 
 Contact – Email, social media links
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 HTML5
 
 CSS3
